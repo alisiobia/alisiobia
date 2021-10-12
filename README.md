@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amarachi
 - 👀 I’m interested in Product Management, Front end web development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and reactJs
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me alisiobia@gmail.com
 
