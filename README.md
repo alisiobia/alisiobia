@@ -10,19 +10,19 @@
 
 📚 **Technical Stack**
 
-*Project Management Tools: Jira, Asana, MS Project Management.
+ *Project Management Tools: Jira, Asana, MS Project Management.
                
-       **Documentation Tools**: Confluence, Trello
+ Documentation Tools: Confluence, Trello
                
-       **Version Control**: Git, Gitlab, GitHub, Bitbucket
+ Version Control: Git, Gitlab, GitHub, Bitbucket
                
-       **Collaboration Tools**: Figma, Adobe XD
+ Collaboration Tools: Figma, Adobe XD
                
-       **Flowchart Tools**: Visio, Miro, Figjam
+ Flowchart Tools: Visio, Miro, Figjam
                
-       **Development Languages**: HTML, CSS, PHP, Javascript, SQL
+ Development Languages: HTML, CSS, PHP, Javascript, SQL
                
-       **Frameworks**: NodeJS, ReactJS, React Native, Flutter
+ Frameworks: NodeJS, ReactJS, React Native, Flutter
 
 🌟 **Strengths**
 Product Vision & Strategy
