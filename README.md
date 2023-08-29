@@ -10,18 +10,12 @@
 
 📚 **Technical Stack**
 
- * Project Management Tools: Jira, Asana, MS Project Management.
-               
- * Documentation Tools: Confluence, Trello
-               
- * Version Control: Git, Gitlab, GitHub, Bitbucket
-               
- * Collaboration Tools: Figma, Adobe XD
-               
- * Flowchart Tools: Visio, Miro, Figjam
-               
- * Development Languages: HTML, CSS, PHP, Javascript, SQL
-               
+ * Project Management Tools: Jira, Asana, MS Project Management.          
+ * Documentation Tools: Confluence, Trello               
+ * Version Control: Git, Gitlab, GitHub, Bitbucket               
+ * Collaboration Tools: Figma, Adobe XD               
+ * Flowchart Tools: Visio, Miro, Figjam               
+ * Development Languages: HTML, CSS, PHP, Javascript, SQL               
  * Frameworks: NodeJS, ReactJS, React Native, Flutter
 
 🌟 **Strengths**
@@ -39,13 +33,13 @@
 * Block Knowledge, Kansas City, USA: Mentored 7 teams in mobile and desktop application development using Agile/Scrum.
 * Rosyland, Nigeria: Accelerated outbound sales cycle by 30% and established strategic partnerships.
 * Halliburton, Nigeria: Built proprietary CRM systems and led internal and external audit successes.
-For more details, check my Resume.
+For more details, check my [Resume.](https://www.linkedin.com/in/amarachi-eze-b8b13816/)
 
 **🎓 Education & Certifications**
-MBA, Ahmadu Bello University: CGPA 4.72/5.0
-B.Sc in Geology, Obafemi Awolowo University
-PMP® Certified
-Certified ScrumMaster®
+* MBA, Ahmadu Bello University: CGPA 4.72/5.0
+* B.Sc in Geology, Obafemi Awolowo University
+* **PMP®** Certified
+* Certified ScrumMaster®
 
 **🤝 Let's Connect**
 If you're interested in collaborating or have any questions, feel free to reach out!
