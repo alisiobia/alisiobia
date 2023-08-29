@@ -9,6 +9,7 @@
 🔗 LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/amarachi-eze-b8b13816/)
 
 📚 **Technical Stack**
+
 **Project Management Tools**: Jira, Asana, MS Project Management.
 
 **Documentation Tools**: Confluence, Trello
