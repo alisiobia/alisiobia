@@ -10,7 +10,7 @@
 
 📚 **Technical Stack**
 
-       **Project Management Tools**: Jira, Asana, MS Project Management.
+       *Project Management Tools: Jira, Asana, MS Project Management.
                
        **Documentation Tools**: Confluence, Trello
                
