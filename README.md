@@ -1,4 +1,4 @@
-**Amarachi Eze** -** PMP, CSM, MBA** 🌟
+**Amarachi Eze** -**PMP, CSM, MBA** 🌟
 **Project Manager | Scrum Master | Product Visionary | Portfolio Strategist**
 
 👋 Hello! I'm **Amarachi**, an accomplished **Project Manager** with over 8 years of experience. I specialize in driving product, program, and portfolio strategies that align with business goals. With a background in IT and Finance, I manage projects across the spectrum, employing methodologies like Agile and Waterfall to deliver exceptional value. 🚀
