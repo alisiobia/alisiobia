@@ -25,20 +25,20 @@
  * Frameworks: NodeJS, ReactJS, React Native, Flutter
 
 🌟 **Strengths**
-Product Vision & Strategy
-Cross-functional Team Leadership
-Program Coordination
-Portfolio Oversight
-Stakeholder Engagement
-Risk Management
-Change Management
-Technical & Business Acumen
+* Product Vision & Strategy
+* Cross-functional Team Leadership
+* Program Coordination
+* Portfolio Oversight
+* Stakeholder Engagement
+* Risk Management
+* Change Management
+* Technical & Business Acumen
 
 **💼 Work Experience**
-BMO, Toronto, ON Canada: Led credit risk reporting application teams, managed transitions, and facilitated acquisitions.
-Block Knowledge, Kansas City, USA: Mentored 7 teams in mobile and desktop application development using Agile/Scrum.
-Rosyland, Nigeria: Accelerated outbound sales cycle by 30% and established strategic partnerships.
-Halliburton, Nigeria: Built proprietary CRM systems and led internal and external audit successes.
+* BMO, Toronto, ON Canada: Led credit risk reporting application teams, managed transitions, and facilitated acquisitions.
+* Block Knowledge, Kansas City, USA: Mentored 7 teams in mobile and desktop application development using Agile/Scrum.
+* Rosyland, Nigeria: Accelerated outbound sales cycle by 30% and established strategic partnerships.
+* Halliburton, Nigeria: Built proprietary CRM systems and led internal and external audit successes.
 For more details, check my Resume.
 
 **🎓 Education & Certifications**
