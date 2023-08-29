@@ -1,4 +1,4 @@
-# **Amarachi Eze** -**PMP, CSM, MBA** 🌟# 
+# **Amarachi Eze** -**PMP, CSM, MBA** 🌟
 
 **Project Manager | Scrum Master | Product Visionary | Portfolio Strategist**
 
