@@ -1,13 +1,13 @@
 # **Amarachi Eze** -**PMP, CSM, MBA** 🌟
 
-**Project Manager | Scrum Master | Product Visionary | Portfolio Strategist**
+**Program Manager | Technical Project Manager | Scrum Master | Engineering Manager**
 
-👋 Hello! I'm **Amarachi**, an accomplished **Project Manager** with over 8 years of experience. I specialize in driving product, program, and portfolio strategies that align with business goals. With a background in IT and Finance, I manage projects across the spectrum, employing methodologies like Agile and Waterfall to deliver exceptional value. 🚀
+👋 Hello! I'm **Amarachi**, an accomplished **Technical Project Manager** with about 10 years of experience. I specialize in driving product, program, and portfolio strategies that align with business goals. With a background in IT and Finance, I manage projects across the spectrum, employing methodologies like Agile and Waterfall to deliver exceptional value. 🚀
 
 🌐 **Reach Me**
 💌 Email: [alisiobia@gmail.com](mailto:alisiobia@gmail.com)
 🏢 Location: Ontario, CA
-🔗 LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/amarachi-eze-b8b13816/)
+<!--- LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/amarachi-eze-b8b13816/) --->
 
 📚 **Technical Stack**
 
@@ -32,9 +32,8 @@
 **💼 Work Experience**
 * BMO, Toronto, ON Canada: Led credit risk reporting application teams, managed transitions, and facilitated acquisitions.
 * Block Knowledge, Kansas City, USA: Mentored 7 teams in mobile and desktop application development using Agile/Scrum.
-* Rosyland, Nigeria: Accelerated outbound sales cycle by 30% and established strategic partnerships.
 * Halliburton, Nigeria: Built proprietary CRM systems and led internal and external audit successes.
-For more details, check my [Resume.](https://www.linkedin.com/in/amarachi-eze-b8b13816/)
+<!--- For more details, check my [Resume.](https://www.linkedin.com/in/amarachi-eze-b8b13816/) --->
 
 **🎓 Education & Certifications**
 * MBA, Ahmadu Bello University: CGPA 4.72/5.0
